@@ -1,0 +1,2 @@
+# Trans_Prot
+通过整合基于残差块的Transformer和ProtT5蛋白语言模型增强促炎肽预测
